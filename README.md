@@ -95,6 +95,9 @@
   <a href="https://tanstack.com/query/latest" target="_blank">
     <img src="https://tanstack.com/favicon.ico" alt="TanStack Query" width="40" height="40"/>
   </a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/logo.svg" alt="Zustand" width="40" height="40"/>
+  </a>
 </p>
 
 #### ⚙️ Backend
