@@ -161,9 +161,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=eaangrino&show_icons=true&theme=dark" alt="eaangrino GitHub Stats"/>
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eaangrino&theme=dark" alt="GitHub Streak"/>
 </p>
+-->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaangrino&layout=compact&theme=dark" alt="Top Languages"/>
