@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I'm eaangrino</h1>
 <h3 align="center">Fullstack Developer JS/TS | Microservices</h3>
 
-<p align="center">
-  <img src="https://github.com/eaangrino.png" alt="eaangrino GitHub profile picture" width="150" style="border-radius: 50%; border: 2px solid #ccc;" />
-</p>
-
 <p align="center">💻 +5 years of experience building scalable web solutions.</p>
 
 <p align="center">
