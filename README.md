@@ -23,7 +23,7 @@
 
 ### 🛠️ Mastered Technologies
 
-#### 🌐 Frontend
+### 🌐 Frontend
 
 <p>
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
@@ -35,29 +35,33 @@
 <img src="https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white" />
 </p>
 
-#### ⚙️ Backend
+### ⚙️ Backend
 
 <p>
-
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://custom-icon-badges.demolab.com/badge/Oracle_SQL-F80000?logo=oracle&logoColor=fff" />
+</p>
+
+### 🛢 Database
+
+<p>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Oracle_SQL-F80000?logo=oracle&logoColor=fff" />
 </p>
 
 ---
 
 ### ⚡ Proficient Technologies
 
-#### 🌐 Frontend
+### 🌐 Frontend
 
 <p>
 
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
 </p>
 
-#### 🛠️ DevOps
+### 🛠️ DevOps
 
 <p>
 
@@ -70,7 +74,7 @@
 
 ### 🚀 Familiar Technologies
 
-#### 🌐 Frontend
+### 🌐 Frontend
 
 <p>
 
@@ -79,7 +83,7 @@
 <img src="https://img.shields.io/badge/-Zustand-000000?style=flat&logo=z&logoColor=white" />
 </p>
 
-#### ⚙️ Backend
+### ⚙️ Backend
 
 <p>
 
@@ -88,7 +92,7 @@
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
 
-#### 🤖 Android
+### 🤖 Android
 
 <p>
 
@@ -97,14 +101,14 @@
 <img src="https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white" />
 </p>
 
-#### 🖥️ Desktop
+### 🖥️ Desktop
 
 <p>
 
 <img src="https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white" />
 </p>
 
-#### 🛠️ DevOps
+### 🛠️ DevOps
 
 <p>
 
