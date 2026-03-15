@@ -1,3 +1,10 @@
+<p align="center">
+🌎 Language
+
+<a href="README.md">🇬🇧 English</a> |
+<a href="README.es.md">🇪🇸 Español</a>
+</p>
+
 <h1 align="center">👋 Hi, I'm Edgar Angrino</h1>
 <h3 align="center">Software Engineer | Backend, Frontend & Systems | AI-Augmented Development</h3>
 
