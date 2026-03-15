@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Edgar Andrés Angrino</h1>
+<h1 align="center">👋 Hi, I'm Edgar Angrino</h1>
 <h3 align="center">Software Engineer | Backend, Frontend & Systems | AI-Augmented Development</h3>
 
 <p align="center">
@@ -78,9 +78,4 @@ All generated code is **reviewed, refined and integrated through iterative engin
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaangrino&layout=compact&theme=dark"/>
-</p>
----
-
-<p align="center">
-  Thank you for visiting my profile!
 </p>
