@@ -3,6 +3,7 @@
 
 <a href="README.md">🇬🇧 English</a> |
 <a href="README.es.md">🇪🇸 Español</a>
+
 </p>
 
 <h1 align="center">👋 Hi, I'm Edgar Angrino</h1>
@@ -29,6 +30,8 @@ Building scalable backend systems and web applications using Node.js, data-drive
 ## 🧠 Engineering Focus
 
 I focus on building **scalable web systems and backend architectures**, primarily using Node.js and TypeScript.
+I build solutions across different ecosystems, applying the same software engineering principles with a strong OOP foundation.
+For me, syntax is secondary; solving the problem with the right architecture is what matters most.
 
 My work typically involves:
 
@@ -42,13 +45,15 @@ I integrate **AI tools into engineering workflows** to accelerate development wh
 
 ---
 
-## ⚙️ Core Stack
+## ⚙️ Engineering Approach
 
 **Backend**
 
-- Node.js
-- TypeScript
-- Express
+- .NET Core
+- Java + Spring Boot
+- FastAPI
+- NestJS
+- ExpressJS
 - SQL / PostgreSQL
 
 **Infrastructure**
@@ -59,8 +64,10 @@ I integrate **AI tools into engineering workflows** to accelerate development wh
 
 **Frontend**
 
+- Angular
 - React
-- Vite
+- Next.js
+- Vite.js
 - Tailwind
 
 ---

@@ -3,6 +3,7 @@
 
 <a href="README.md">🇬🇧 English</a> |
 <a href="README.es.md">🇪🇸 Español</a>
+
 </p>
 
 <h1 align="center">👋 Hola, soy Edgar Angrino</h1>
@@ -29,6 +30,8 @@ Construyendo sistemas backend escalables y aplicaciones web utilizando Node.js, 
 ## 🧠 Enfoque de Ingeniería
 
 Me enfoco en construir **sistemas web escalables y arquitecturas backend**, principalmente utilizando Node.js y TypeScript.
+Construyo soluciones en distintos ecosistemas aplicando los mismos principios de ingeniería, con una base sólida en programación orientada a objetos.
+Para mí, la sintaxis es secundaria; lo más importante es resolver el problema con la arquitectura adecuada.
 
 Mi trabajo normalmente involucra:
 
@@ -42,13 +45,15 @@ Integro **herramientas de inteligencia artificial dentro de flujos de ingenierí
 
 ---
 
-## ⚙️ Stack Principal
+## ⚙️ Enfoque de Ingeniería
 
 **Backend**
 
-- Node.js
-- TypeScript
-- Express
+- .NET Core
+- Java + Spring Boot
+- FastAPI
+- NestJS
+- ExpressJS
 - SQL / PostgreSQL
 
 **Infraestructura**
@@ -59,8 +64,10 @@ Integro **herramientas de inteligencia artificial dentro de flujos de ingenierí
 
 **Frontend**
 
+- Angular
 - React
-- Vite
+- Next.js
+- Vite.js
 - Tailwind
 
 ---
