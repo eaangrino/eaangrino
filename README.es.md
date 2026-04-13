@@ -60,7 +60,7 @@ Integro **herramientas de inteligencia artificial dentro de flujos de ingenierí
 
 - Docker
 - Entornos Linux
-- Servicios en la nube (AWS)
+- Servicios en la nube
 
 **Frontend**
 
