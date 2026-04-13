@@ -60,7 +60,7 @@ I integrate **AI tools into engineering workflows** to accelerate development wh
 
 - Docker
 - Linux environments
-- Cloud services (AWS)
+- Cloud services
 
 **Frontend**
 
