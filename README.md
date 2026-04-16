@@ -84,9 +84,9 @@ All generated code is **reviewed, refined and integrated through iterative engin
 
 ---
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
-<!--<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eaangrino&show_icons=true&theme=dark"/>
 </p>
 
