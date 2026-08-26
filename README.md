@@ -7,13 +7,16 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Edgar Angrino</h1>
-<h3 align="center">Software Engineer | Backend, Frontend & Systems | AI-Augmented Development</h3>
+<h3 align="center">Software Engineer | Systems, Web & Cloud | AI-Assisted Engineering</h3>
 
 <p align="center">
-Building scalable backend systems and web applications using Node.js, data-driven architectures and AI-assisted engineering workflows.
+Building, maintaining, and evolving software systems, from MVPs to scalable solutions and existing platforms, with a practical focus on maintainability and real-world needs.
 </p>
 
 <p align="center">
+  <a href="https://eaangrino.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-181717?logo=githubpages&logoColor=white">
+  </a>
   <a href="https://x.com/eaangrino">
     <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white">
   </a>
@@ -29,58 +32,74 @@ Building scalable backend systems and web applications using Node.js, data-drive
 
 ## 🧠 Engineering Focus
 
-I focus on building **scalable web systems and backend architectures**, primarily using Node.js and TypeScript.
-I build solutions across different ecosystems, applying the same software engineering principles with a strong OOP foundation.
-For me, syntax is secondary; solving the problem with the right architecture is what matters most.
+I focus on building, maintaining, and evolving software systems across different stages, from early MVPs to scalable products and established platforms.
+
+My approach is practical: I select technologies based on performance, maintainability, complexity, and the actual requirements of the problem rather than following a fixed stack or trends.
 
 My work typically involves:
 
-- Backend API design
-- Data modeling and SQL optimization
-- Containerized applications with Docker
-- Linux-based environments
-- End-to-end application workflows (frontend → backend → data)
-
-I integrate **AI tools into engineering workflows** to accelerate development while maintaining strict technical validation and iterative implementation.
+- Backend services and API design
+- Frontend and end-to-end application workflows
+- Data modeling, SQL, and relational databases
+- Containerized development with Docker
+- Linux-based environments and automation
+- Cloud infrastructure and AWS services
+- Local development environments that simulate production and cloud services
+- AI-assisted development with technical validation and code review
 
 ---
 
-## ⚙️ Engineering Approach
+## ⚙️ Technical Toolbox
 
-**Backend**
+**Backend & Languages**
 
-- .NET Core
-- Java + Spring Boot
-- FastAPI
+- Node.js / TypeScript
 - NestJS
-- ExpressJS
-- SQL / PostgreSQL
+- Python
+- Java
+- .NET
 
-**Infrastructure**
+**Frontend & Mobile**
 
-- Docker
-- Linux environments
-- Cloud services
-
-**Frontend**
-
-- Angular
 - React
 - Next.js
-- Vite.js
-- Tailwind
+- Vite
+- Tailwind CSS
+- Flutter
+- Ionic
+
+**Data**
+
+- PostgreSQL
+- Oracle SQL
+- MySQL
+
+**Infrastructure & Tooling**
+
+- Docker
+- Linux
+- AWS
+- Git
+- Bash
+
+**AI & Local Models**
+
+- Codex
+- Gemini
+- Claude
+- DeepSeek
+- Ollama
+- Local AI models and tool-calling workflows
 
 ---
 
-## 🤖 AI-Augmented Development
+## 🤖 AI-Assisted Engineering
 
-I use AI tools as part of the development process to:
+I use artificial intelligence as a complementary engineering tool to accelerate development, analysis, prototyping, and automation.
 
-- accelerate prototyping
-- assist in implementation
-- explore architectural solutions
+AI-generated output is not treated as production-ready by default. I review, validate, refactor, and integrate it through the same engineering process applied to manually written code.
 
-All generated code is **reviewed, refined and integrated through iterative engineering processes** before reaching production.
+Whenever possible, I also prefer local and isolated development environments to reduce costs, reproduce infrastructure safely, and identify problems before deployment.
 
 ---
 
