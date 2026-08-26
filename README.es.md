@@ -7,13 +7,16 @@
 </p>
 
 <h1 align="center">👋 Hola, soy Edgar Angrino</h1>
-<h3 align="center">Ingeniero de Software | Sistemas Node.js | Desarrollo Aumentado con IA</h3>
+<h3 align="center">Ingeniero de Software | Sistemas, Web & Cloud | Ingeniería Asistida con IA</h3>
 
 <p align="center">
-Construyendo sistemas backend escalables y aplicaciones web utilizando Node.js, arquitecturas basadas en datos y flujos de ingeniería asistidos por inteligencia artificial.
+Construyo, mantengo y evoluciono sistemas de software, desde MVPs hasta soluciones escalables y plataformas existentes, con un enfoque práctico en mantenibilidad y necesidades reales.
 </p>
 
 <p align="center">
+  <a href="https://eaangrino.github.io/">
+    <img src="https://img.shields.io/badge/Portafolio-181717?logo=githubpages&logoColor=white">
+  </a>
   <a href="https://x.com/eaangrino">
     <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white">
   </a>
@@ -29,58 +32,74 @@ Construyendo sistemas backend escalables y aplicaciones web utilizando Node.js, 
 
 ## 🧠 Enfoque de Ingeniería
 
-Me enfoco en construir **sistemas web escalables y arquitecturas backend**, principalmente utilizando Node.js y TypeScript.
-Construyo soluciones en distintos ecosistemas aplicando los mismos principios de ingeniería, con una base sólida en programación orientada a objetos.
-Para mí, la sintaxis es secundaria; lo más importante es resolver el problema con la arquitectura adecuada.
+Me enfoco en construir, mantener y evolucionar sistemas de software en distintas etapas, desde MVPs iniciales hasta productos escalables y plataformas ya establecidas.
+
+Mi enfoque es práctico: selecciono tecnologías según rendimiento, mantenibilidad, complejidad y las necesidades reales del problema, en lugar de seguir un stack fijo o decisiones basadas únicamente en tendencias.
 
 Mi trabajo normalmente involucra:
 
-- Diseño de APIs backend
-- Modelado de datos y optimización de consultas SQL
-- Aplicaciones contenerizadas con Docker
-- Entornos basados en Linux
-- Flujo completo de aplicaciones (frontend → backend → datos)
-
-Integro **herramientas de inteligencia artificial dentro de flujos de ingeniería** para acelerar el desarrollo, manteniendo siempre validación técnica rigurosa e implementación iterativa.
+- Servicios backend y diseño de APIs
+- Frontend y flujos completos de aplicación
+- Modelado de datos, SQL y bases de datos relacionales
+- Desarrollo contenerizado con Docker
+- Entornos Linux y automatización
+- Infraestructura cloud y servicios de AWS
+- Entornos de desarrollo local que simulan producción y servicios cloud
+- Desarrollo asistido con IA, validación técnica y revisión de código
 
 ---
 
-## ⚙️ Enfoque de Ingeniería
+## ⚙️ Herramientas y Tecnologías
 
-**Backend**
+**Backend y Lenguajes**
 
-- .NET Core
-- Java + Spring Boot
-- FastAPI
+- Node.js / TypeScript
 - NestJS
-- ExpressJS
-- SQL / PostgreSQL
+- Python
+- Java
+- .NET
 
-**Infraestructura**
+**Frontend y Móvil**
 
-- Docker
-- Entornos Linux
-- Servicios en la nube
-
-**Frontend**
-
-- Angular
 - React
 - Next.js
-- Vite.js
-- Tailwind
+- Vite
+- Tailwind CSS
+- Flutter
+- Ionic
+
+**Datos**
+
+- PostgreSQL
+- Oracle SQL
+- MySQL
+
+**Infraestructura y Herramientas**
+
+- Docker
+- Linux
+- AWS
+- Git
+- Bash
+
+**IA y Modelos Locales**
+
+- Codex
+- Gemini
+- Claude
+- DeepSeek
+- Ollama
+- Modelos de IA locales y flujos con tool calling
 
 ---
 
-## 🤖 Desarrollo Aumentado con IA
+## 🤖 Ingeniería Asistida con IA
 
-Utilizo herramientas de inteligencia artificial como parte del proceso de desarrollo para:
+Utilizo inteligencia artificial como una herramienta complementaria de ingeniería para acelerar desarrollo, análisis, prototipado y automatización.
 
-- acelerar prototipos
-- asistir en la implementación
-- explorar soluciones de arquitectura
+El contenido generado por IA no se considera listo para producción por defecto. Lo reviso, valido, refactorizo e integro mediante el mismo proceso de ingeniería aplicado al código escrito manualmente.
 
-Todo el código generado es **revisado, refinado e integrado mediante procesos de ingeniería iterativos** antes de llegar a producción.
+Siempre que es posible, también priorizo entornos de desarrollo locales y aislados para reducir costos, reproducir infraestructura de forma segura y detectar problemas antes del despliegue.
 
 ---
 
